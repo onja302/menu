@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../../constant.dart';
 
-
+//la classes des categories sur le haut(navbar)
 
 class Categories extends StatefulWidget {
   @override

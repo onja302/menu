@@ -15,54 +15,54 @@ class Product {
   });
 }
 
-List<Product> products = [
+List<dynamic> products = [
   Product(
     id:1,
-    title: "",
+    title: "green bag",
     price: 100,
     description: dummyText,
-    image: "",
-    color: Color(0xFF3D82AE)
+    image: "assets/images/green.png",
+    color: Colors.green,
   ),
   Product(
     id:2,
     title: "",
     price: 150,
     description: dummyText,
-    image: "",
-    color: Color(0xFFD3A984)
+    image: "assets/images/noir.png",
+    color: Colors.black
   ),
   Product(
     id:3,
     title: "",
     price: 150,
     description: dummyText,
-    image: "",
-    color: Color(0xFF989493)
+    image: "assets/images/pink.png",
+    color: Colors.pink
   ),
   Product(
     id:4,
     title: "",
     price: 90,
     description: dummyText,
-    image: "",
-    color: Color(0xFFE6B398)
+    image: "assets/images/rose.png",
+    color: Colors.pink
   ),
    Product(
     id:5,
     title: "",
     price: 200,
     description: dummyText,
-    image: "",
-    color: Color(0xFFFB7883)
+    image: "assets/images/green.png",
+    color: Colors.green
   ),
   Product(
     id:6,
     title: "",
     price: 2300,
     description: dummyText,
-    image: "",
-    color: Color(0xFFAEAEAE)
+    image: "assets/images/noir.png",
+    color: Colors.black
   ),
 ];
 String dummyText = "coming like hurricane I take it in real slow. The world is spinning like a wather vane fragole and composed though I am breaking down again";
