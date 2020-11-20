@@ -51,9 +51,8 @@ flutter:
       - assets/images/noir.png
       - assets/images/pink.png
       - assets/images/rose.png
-      - assets/icons/back.svg
-      - assets/icons/cart.svg
-      - assets/icons/search.svg
+      - assets/images/mail.png
+      
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
